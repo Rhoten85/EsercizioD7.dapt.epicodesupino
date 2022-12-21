@@ -1,0 +1,43 @@
+<templatelettera>
+    <lettera>
+        <data>12/06/2022</data>
+        <mittente>Aldo Baglio
+            <indirizzo>Via Nugoletti, 27, 31033 Castelfranco Veneto TV</indirizzo>
+        </mittente>
+        <destinatario>Ugo Marzo
+           <indirizzo>Via Ordona - Lavello, 77, 71121 Foggia FG</indirizzo> 
+        </destinatario>
+        <messaggio>Mi auguro ti piaccia la sorpresa, meriti tanto per le conquiste che stai facendo.</messaggio>
+        <firma>Saluti, da Zio Aldo.</firma>
+    </lettera>
+
+    <lettera>
+        <data>22/11/2022</data>
+        <mittente>Zurigo Assicurazioni
+            <indirizzo>Via Benigno Crespi, 23, 20159 Milano MI</indirizzo>
+        </mittente>
+        <destinatario>Renzo Manna
+           <indirizzo>Via Filippo Pacini, 54, 50144 Firenze FI</indirizzo> 
+        </destinatario>
+        <messaggio>Renzo caro, mancano pochissimi giorni alla scadenza della tua polizza Furgone. 
+        Assicurati nuovamente scegliendo l'affidabilita di un Gruppo Svizzero nato 150 anni fa!
+        </messaggio>
+        <firma>Distinti Saluti.</firma>
+    </lettera>
+
+    <lettera>
+        <data>07/04/2018</data>
+        <mittente>Grand Hotel Rimini
+            <indirizzo> Via Flaminia, 171, 47923 Rimini RN</indirizzo>
+        </mittente>
+        <destinatario>Lucia Natale
+           <indirizzo>via raffaele baldi 2, 84013 Cava de' Tirreni SA</indirizzo> 
+        </destinatario>
+        <messaggio>Ciao Lucia, 
+        Hai in programma un viaggio a breve? Ti ridiamo il 10%  in Credito di Viaggio,
+        sulla tua prossima prenotazione per la Romagna.
+        </messaggio>
+        <firma>Saluti dal Grand Hotel, Dir. Claudio Angioli.</firma>
+    </lettera>
+
+</templatelettera>

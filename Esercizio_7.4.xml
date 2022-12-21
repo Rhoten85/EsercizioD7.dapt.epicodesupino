@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cd seriale='B6B41B' disc-length='50:03'>
+    <nome selezionatore='Bruce Willis'>Die Hard Sound</nome>
+    <casa_discografica country='Japan'>Sony</casa_discografica>
+    <anno>2018</anno>
+    <genere>Rock</genere>
+    <canzoni selection='10' plus='1'>
+        <numero>1</numero>
+        <titolo>I Want To Know What Love Is<artista>Foreigner</artista>
+        <durata vers='Guitar'>4:12</durata></titolo>
+
+        <numero>2</numero>
+        <titolo>Wind of Change<artista>Scorpions</artista>
+        <durata>3:57</durata></titolo>
+
+        <numero>3</numero>
+        <titolo>Hereos<artista>David Bowie</artista>
+        <durata>6:33</durata></titolo>
+
+        <numero>4</numero>
+        <titolo>Inuendo<artista>Queen</artista>
+        <durata vers='Piano'>5:04</durata></titolo>
+
+        <numero>5</numero>
+        <titolo>Fly Away<artista>RHCP</artista>
+        <durata>4:33</durata></titolo>
+
+        <numero>6</numero>
+        <titolo>Bart Simpson<artista>Beatles</artista>
+        <durata>3:43</durata></titolo>
+        <artista>Beatles</artista>
+
+        <numero>7</numero>
+        <titolo>Jeronimo<artista>30 Second to Mars</artista>
+        <durata>3:27</durata></titolo>
+        <artista>30 Second to Mars</artista>
+
+        <numero>8</numero>
+        <titolo>Burn<artista>ACDC</artista>
+        <durata vers='HighBass'>4:01</durata></titolo>
+
+        <numero>9</numero>
+        <titolo>Club Foot<artista>Kasabian</artista>
+        <durata>2:57</durata></titolo>
+
+        <numero>10</numero>
+        <titolo>BangBang<artista>Metallica</artista>
+        <durata>3:22</durata></titolo>
+
+        <numero plus='Mix'>11</numero>
+        <titolo>Bruce<artista>Roger Sanchez</artista>
+        <durata vers='Dj mixed'>3:22</durata></titolo>
+    </canzoni>
+</cd>    

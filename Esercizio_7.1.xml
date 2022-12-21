@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libro nome="Albert">
+    <capitoli>
+        <capitolo1>Introduzione</capitolo1>
+        <capitolo2>Filosofia</capitolo2>
+        <capitolo3>Ringraziamenti</capitolo3>
+    </capitoli>
+    <autore>
+        <nome>Albert Einstein</nome>
+        <indirizzo>Kramgasse 49, 3011 Bern, Svizzera</indirizzo>
+    </autore>
+</libro>    
